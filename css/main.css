@@ -1,0 +1,134 @@
+/*** sectioning elements ***/
+
+body {
+
+}
+
+header {
+ color: #fff;
+ background-color: #000;
+ font-size: 60px;
+ text-align: center;
+}
+
+main {
+text-align: center;
+}
+
+footer {
+text-align: right;
+font-size: 22px;
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+.photos a{
+text-decoration: none;
+padding: 6px;
+}
+
+.photos img{
+  transition: all .2s ease-in-out;
+}
+
+.photos img:hover{
+  transform: scale(1.2);
+}
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
